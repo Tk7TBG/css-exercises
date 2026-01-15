@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.standard-button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.one {
+    background-color: #ffef4d;
+    color: #2A428c;
+}
+
+.two {
+    background-color: #2A428c;
+    color: #ffef4d;
+}
