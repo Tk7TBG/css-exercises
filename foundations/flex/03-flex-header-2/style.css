@@ -23,6 +23,7 @@ body {
 
 .right-container {
   display: flex;
+  gap: 10px;
 }
 
 .profile-image {
